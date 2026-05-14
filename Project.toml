@@ -1,0 +1,12 @@
+name = "TestPackage"
+uuid = "a78aade5-801e-4ab5-aaab-bfb290a076c4"
+version = "0.1.0"
+authors = ["C. Brenhin Keller <cbkeller@dartmouth.edu>"]
+
+[deps]
+Statistics = "10745b16-79ce-11e8-11f9-7d13ad32a3b2"
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[compat]
+Statistics = "1.11.1"
+Test = "1.11.0"
